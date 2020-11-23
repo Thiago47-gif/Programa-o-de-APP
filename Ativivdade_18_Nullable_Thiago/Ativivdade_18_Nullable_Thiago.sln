@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ativivdade_18_Nullable_Thiago", "Ativivdade_18_Nullable_Thiago\Ativivdade_18_Nullable_Thiago.csproj", "{6FEFD440-46EF-4338-9E86-AE9796FDC29B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FEFD440-46EF-4338-9E86-AE9796FDC29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FEFD440-46EF-4338-9E86-AE9796FDC29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FEFD440-46EF-4338-9E86-AE9796FDC29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FEFD440-46EF-4338-9E86-AE9796FDC29B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA4A9D22-D9FF-49C2-96F1-3A18B410C8B6}
+	EndGlobalSection
+EndGlobal
