@@ -1,0 +1,13 @@
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\S.A_01_Thiago\S.A_01_Thiago\obj\Debug\netcoreapp3.1\S.A_01_Thiago.csprojAssemblyReference.cache
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\S.A_01_Thiago\S.A_01_Thiago\obj\Debug\netcoreapp3.1\S.A_01_Thiago.AssemblyInfoInputs.cache
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\S.A_01_Thiago\S.A_01_Thiago\obj\Debug\netcoreapp3.1\S.A_01_Thiago.AssemblyInfo.cs
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\S.A_01_Thiago\S.A_01_Thiago\obj\Debug\netcoreapp3.1\S.A_01_Thiago.csproj.CoreCompileInputs.cache
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\S.A_01_Thiago\S.A_01_Thiago\bin\Debug\netcoreapp3.1\S.A_01_Thiago.exe
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\S.A_01_Thiago\S.A_01_Thiago\bin\Debug\netcoreapp3.1\S.A_01_Thiago.deps.json
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\S.A_01_Thiago\S.A_01_Thiago\bin\Debug\netcoreapp3.1\S.A_01_Thiago.runtimeconfig.json
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\S.A_01_Thiago\S.A_01_Thiago\bin\Debug\netcoreapp3.1\S.A_01_Thiago.runtimeconfig.dev.json
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\S.A_01_Thiago\S.A_01_Thiago\bin\Debug\netcoreapp3.1\S.A_01_Thiago.dll
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\S.A_01_Thiago\S.A_01_Thiago\bin\Debug\netcoreapp3.1\S.A_01_Thiago.pdb
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\S.A_01_Thiago\S.A_01_Thiago\obj\Debug\netcoreapp3.1\S.A_01_Thiago.dll
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\S.A_01_Thiago\S.A_01_Thiago\obj\Debug\netcoreapp3.1\S.A_01_Thiago.pdb
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\S.A_01_Thiago\S.A_01_Thiago\obj\Debug\netcoreapp3.1\S.A_01_Thiago.genruntimeconfig.cache
