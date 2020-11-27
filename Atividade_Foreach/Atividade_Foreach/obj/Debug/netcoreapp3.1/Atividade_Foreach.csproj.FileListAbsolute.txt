@@ -1,0 +1,13 @@
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Atividade_Foreach\Atividade_Foreach\bin\Debug\netcoreapp3.1\Atividade_Foreach.exe
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Atividade_Foreach\Atividade_Foreach\bin\Debug\netcoreapp3.1\Atividade_Foreach.deps.json
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Atividade_Foreach\Atividade_Foreach\bin\Debug\netcoreapp3.1\Atividade_Foreach.runtimeconfig.json
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Atividade_Foreach\Atividade_Foreach\bin\Debug\netcoreapp3.1\Atividade_Foreach.runtimeconfig.dev.json
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Atividade_Foreach\Atividade_Foreach\bin\Debug\netcoreapp3.1\Atividade_Foreach.dll
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Atividade_Foreach\Atividade_Foreach\bin\Debug\netcoreapp3.1\Atividade_Foreach.pdb
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Atividade_Foreach\Atividade_Foreach\obj\Debug\netcoreapp3.1\Atividade_Foreach.csprojAssemblyReference.cache
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Atividade_Foreach\Atividade_Foreach\obj\Debug\netcoreapp3.1\Atividade_Foreach.AssemblyInfoInputs.cache
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Atividade_Foreach\Atividade_Foreach\obj\Debug\netcoreapp3.1\Atividade_Foreach.AssemblyInfo.cs
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Atividade_Foreach\Atividade_Foreach\obj\Debug\netcoreapp3.1\Atividade_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Atividade_Foreach\Atividade_Foreach\obj\Debug\netcoreapp3.1\Atividade_Foreach.dll
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Atividade_Foreach\Atividade_Foreach\obj\Debug\netcoreapp3.1\Atividade_Foreach.pdb
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Atividade_Foreach\Atividade_Foreach\obj\Debug\netcoreapp3.1\Atividade_Foreach.genruntimeconfig.cache
