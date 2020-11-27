@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade_Foreach", "Atividade_Foreach\Atividade_Foreach.csproj", "{156AAAEE-4BA3-4C1B-A583-ED46E4CD5760}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade Foreach", "Atividade Foreach\Atividade Foreach.csproj", "{5AFC1C7E-3B2F-4B26-A558-86EDFF365452}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{156AAAEE-4BA3-4C1B-A583-ED46E4CD5760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{156AAAEE-4BA3-4C1B-A583-ED46E4CD5760}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{156AAAEE-4BA3-4C1B-A583-ED46E4CD5760}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{156AAAEE-4BA3-4C1B-A583-ED46E4CD5760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AFC1C7E-3B2F-4B26-A558-86EDFF365452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AFC1C7E-3B2F-4B26-A558-86EDFF365452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AFC1C7E-3B2F-4B26-A558-86EDFF365452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AFC1C7E-3B2F-4B26-A558-86EDFF365452}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3724ADA5-EEB4-487B-A77C-71C4D5CF3339}
+		SolutionGuid = {B1DD112B-7BE5-4ED7-A284-6D27C6E6957A}
 	EndGlobalSection
 EndGlobal

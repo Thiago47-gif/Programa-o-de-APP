@@ -13,7 +13,7 @@ namespace Atividade_Foreach
             {
                 Console.WriteLine(n);
             }
-            Console.WriteLine(); 
+            Console.WriteLine();
             // Questao 2
             string[] nome = new string[6] { "Thiago", "Bianca", "Diogo", "Diego", "Valdecy", "Aderli" };
 

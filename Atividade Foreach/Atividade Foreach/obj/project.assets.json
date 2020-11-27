@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thign\\OneDrive\\Área de Trabalho\\Programa-o-de-APP\\Atividade_Foreach\\Atividade_Foreach\\Atividade_Foreach.csproj",
-      "projectName": "Atividade_Foreach",
-      "projectPath": "C:\\Users\\thign\\OneDrive\\Área de Trabalho\\Programa-o-de-APP\\Atividade_Foreach\\Atividade_Foreach\\Atividade_Foreach.csproj",
+      "projectUniqueName": "C:\\Users\\thign\\OneDrive\\Área de Trabalho\\Programa-o-de-APP\\Atividade Foreach\\Atividade Foreach\\Atividade Foreach.csproj",
+      "projectName": "Atividade Foreach",
+      "projectPath": "C:\\Users\\thign\\OneDrive\\Área de Trabalho\\Programa-o-de-APP\\Atividade Foreach\\Atividade Foreach\\Atividade Foreach.csproj",
       "packagesPath": "C:\\Users\\thign\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thign\\OneDrive\\Área de Trabalho\\Programa-o-de-APP\\Atividade_Foreach\\Atividade_Foreach\\obj\\",
+      "outputPath": "C:\\Users\\thign\\OneDrive\\Área de Trabalho\\Programa-o-de-APP\\Atividade Foreach\\Atividade Foreach\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thign\\AppData\\Roaming\\NuGet\\NuGet.Config",
