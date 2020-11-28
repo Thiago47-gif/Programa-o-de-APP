@@ -1,0 +1,13 @@
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\Atividade_19\Atividade_19\bin\Debug\netcoreapp3.1\Atividade_19.exe
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\Atividade_19\Atividade_19\bin\Debug\netcoreapp3.1\Atividade_19.deps.json
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\Atividade_19\Atividade_19\bin\Debug\netcoreapp3.1\Atividade_19.runtimeconfig.json
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\Atividade_19\Atividade_19\bin\Debug\netcoreapp3.1\Atividade_19.runtimeconfig.dev.json
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\Atividade_19\Atividade_19\bin\Debug\netcoreapp3.1\Atividade_19.dll
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\Atividade_19\Atividade_19\bin\Debug\netcoreapp3.1\Atividade_19.pdb
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\Atividade_19\Atividade_19\obj\Debug\netcoreapp3.1\Atividade_19.csprojAssemblyReference.cache
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\Atividade_19\Atividade_19\obj\Debug\netcoreapp3.1\Atividade_19.AssemblyInfoInputs.cache
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\Atividade_19\Atividade_19\obj\Debug\netcoreapp3.1\Atividade_19.AssemblyInfo.cs
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\Atividade_19\Atividade_19\obj\Debug\netcoreapp3.1\Atividade_19.csproj.CoreCompileInputs.cache
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\Atividade_19\Atividade_19\obj\Debug\netcoreapp3.1\Atividade_19.dll
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\Atividade_19\Atividade_19\obj\Debug\netcoreapp3.1\Atividade_19.pdb
+C:\Users\thign\OneDrive\Documentos\TDS08-Thiago Ignácio\Visual Studio\Linguagem_C#\Atividade_19\Atividade_19\obj\Debug\netcoreapp3.1\Atividade_19.genruntimeconfig.cache
