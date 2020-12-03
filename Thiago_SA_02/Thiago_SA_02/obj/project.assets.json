@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thign\\OneDrive\\Área de Trabalho\\Programa-o-de-APP\\Atividade_19\\Atividade_19\\Atividade_19.csproj",
-      "projectName": "Atividade_19",
-      "projectPath": "C:\\Users\\thign\\OneDrive\\Área de Trabalho\\Programa-o-de-APP\\Atividade_19\\Atividade_19\\Atividade_19.csproj",
+      "projectUniqueName": "C:\\Users\\thign\\OneDrive\\Área de Trabalho\\Programa-o-de-APP\\Thiago_SA_02\\Thiago_SA_02\\Thiago_SA_02.csproj",
+      "projectName": "Thiago_SA_02",
+      "projectPath": "C:\\Users\\thign\\OneDrive\\Área de Trabalho\\Programa-o-de-APP\\Thiago_SA_02\\Thiago_SA_02\\Thiago_SA_02.csproj",
       "packagesPath": "C:\\Users\\thign\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thign\\OneDrive\\Área de Trabalho\\Programa-o-de-APP\\Atividade_19\\Atividade_19\\obj\\",
+      "outputPath": "C:\\Users\\thign\\OneDrive\\Área de Trabalho\\Programa-o-de-APP\\Thiago_SA_02\\Thiago_SA_02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thign\\AppData\\Roaming\\NuGet\\NuGet.Config",

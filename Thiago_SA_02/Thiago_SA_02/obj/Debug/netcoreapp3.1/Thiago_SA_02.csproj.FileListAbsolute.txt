@@ -1,0 +1,13 @@
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Thiago_SA_02\Thiago_SA_02\bin\Debug\netcoreapp3.1\Thiago_SA_02.exe
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Thiago_SA_02\Thiago_SA_02\bin\Debug\netcoreapp3.1\Thiago_SA_02.deps.json
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Thiago_SA_02\Thiago_SA_02\bin\Debug\netcoreapp3.1\Thiago_SA_02.runtimeconfig.json
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Thiago_SA_02\Thiago_SA_02\bin\Debug\netcoreapp3.1\Thiago_SA_02.runtimeconfig.dev.json
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Thiago_SA_02\Thiago_SA_02\bin\Debug\netcoreapp3.1\Thiago_SA_02.dll
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Thiago_SA_02\Thiago_SA_02\bin\Debug\netcoreapp3.1\Thiago_SA_02.pdb
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Thiago_SA_02\Thiago_SA_02\obj\Debug\netcoreapp3.1\Thiago_SA_02.AssemblyInfoInputs.cache
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Thiago_SA_02\Thiago_SA_02\obj\Debug\netcoreapp3.1\Thiago_SA_02.AssemblyInfo.cs
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Thiago_SA_02\Thiago_SA_02\obj\Debug\netcoreapp3.1\Thiago_SA_02.csproj.CoreCompileInputs.cache
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Thiago_SA_02\Thiago_SA_02\obj\Debug\netcoreapp3.1\Thiago_SA_02.dll
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Thiago_SA_02\Thiago_SA_02\obj\Debug\netcoreapp3.1\Thiago_SA_02.pdb
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Thiago_SA_02\Thiago_SA_02\obj\Debug\netcoreapp3.1\Thiago_SA_02.genruntimeconfig.cache
+C:\Users\thign\OneDrive\Área de Trabalho\Programa-o-de-APP\Thiago_SA_02\Thiago_SA_02\obj\Debug\netcoreapp3.1\Thiago_SA_02.csprojAssemblyReference.cache
