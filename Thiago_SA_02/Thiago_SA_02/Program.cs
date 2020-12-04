@@ -56,6 +56,7 @@ namespace Thiago_SA_02
                             Console.Write("Quantas Receitas deseja adicionar: ");
                             int numReceitas = int.Parse(Console.ReadLine());
                             Console.WriteLine();
+
                             for (int i = 1; i <= numReceitas; i++)
                             {
                                 Console.WriteLine("Receita #" + i + ":");
@@ -87,10 +88,16 @@ namespace Thiago_SA_02
                                                          grauDificuldade, numPessoas, categoria,
                                                          descricao, ingredientes);
                                 cont = cont + 1;
+                                
                             }
+                            foreach (Receita i in receita)
+                            {
 
+                                Console.WriteLine(i);
+
+                            }
                         }
-
+                        Console.WriteLine();
                         Console.Write("Deseja editar alguma receita ? ");
                         string resp2 = Console.ReadLine();
                         Console.WriteLine();
@@ -214,15 +221,13 @@ namespace Thiago_SA_02
                                 Console.WriteLine();
                                 Console.WriteLine();
 
-                                for (int i = 1; i <= cont; i++)
+                                foreach (var receitas in receita)
                                 {
 
-                                    
-                                        Console.WriteLine("Receita #" + i + ": ");
-                                        Console.WriteLine(receita[i]);
-                                        Console.WriteLine();
-                                        Console.WriteLine();
-                                    
+
+                                    Console.WriteLine(receitas);
+                                    Console.WriteLine();
+                                    Console.WriteLine();
                                 }
                             }
                             

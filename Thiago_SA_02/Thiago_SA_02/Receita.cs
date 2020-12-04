@@ -31,12 +31,12 @@ namespace Thiago_SA_02
         public override string ToString()
         {
             return "Nome: " + NomeReceita +
-            ", Tempo de Preparação: " + TempoPreparacao +
-            ", Grau de Dificuldade: " + GrauDificuldade +
-            ", Numero de Pessoas: " + NumPessoas +
-            ", Categoria: " + Categoria +
-            ",  Descrição: " + Descricao +
-            ", Ingredientes: " + Ingredientes;
+                "\nTempo de Preparação: " + TempoPreparacao +
+                "\nGrau de Dificuldade: " + GrauDificuldade +
+                "\nNumero de Pessoas: " + NumPessoas +
+                "\nCategoria: " + Categoria +
+                "\nDescrição: " + Descricao +
+                "\nIngredientes: " + Ingredientes;
         }
     }
 }
