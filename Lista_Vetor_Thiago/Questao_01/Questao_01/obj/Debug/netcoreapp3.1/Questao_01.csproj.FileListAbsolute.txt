@@ -1,0 +1,13 @@
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_01\Questao_01\bin\Debug\netcoreapp3.1\Questao_01.exe
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_01\Questao_01\bin\Debug\netcoreapp3.1\Questao_01.deps.json
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_01\Questao_01\bin\Debug\netcoreapp3.1\Questao_01.runtimeconfig.json
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_01\Questao_01\bin\Debug\netcoreapp3.1\Questao_01.runtimeconfig.dev.json
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_01\Questao_01\bin\Debug\netcoreapp3.1\Questao_01.dll
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_01\Questao_01\bin\Debug\netcoreapp3.1\Questao_01.pdb
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_01\Questao_01\obj\Debug\netcoreapp3.1\Questao_01.csprojAssemblyReference.cache
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_01\Questao_01\obj\Debug\netcoreapp3.1\Questao_01.AssemblyInfoInputs.cache
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_01\Questao_01\obj\Debug\netcoreapp3.1\Questao_01.AssemblyInfo.cs
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_01\Questao_01\obj\Debug\netcoreapp3.1\Questao_01.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_01\Questao_01\obj\Debug\netcoreapp3.1\Questao_01.dll
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_01\Questao_01\obj\Debug\netcoreapp3.1\Questao_01.pdb
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_01\Questao_01\obj\Debug\netcoreapp3.1\Questao_01.genruntimeconfig.cache

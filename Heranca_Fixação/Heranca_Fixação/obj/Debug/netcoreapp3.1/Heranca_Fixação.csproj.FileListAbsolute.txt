@@ -1,0 +1,13 @@
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Heranca_Fixação\Heranca_Fixação\bin\Debug\netcoreapp3.1\Heranca_Fixação.exe
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Heranca_Fixação\Heranca_Fixação\bin\Debug\netcoreapp3.1\Heranca_Fixação.deps.json
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Heranca_Fixação\Heranca_Fixação\bin\Debug\netcoreapp3.1\Heranca_Fixação.runtimeconfig.json
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Heranca_Fixação\Heranca_Fixação\bin\Debug\netcoreapp3.1\Heranca_Fixação.runtimeconfig.dev.json
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Heranca_Fixação\Heranca_Fixação\bin\Debug\netcoreapp3.1\Heranca_Fixação.dll
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Heranca_Fixação\Heranca_Fixação\bin\Debug\netcoreapp3.1\Heranca_Fixação.pdb
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Heranca_Fixação\Heranca_Fixação\obj\Debug\netcoreapp3.1\Heranca_Fixação.csprojAssemblyReference.cache
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Heranca_Fixação\Heranca_Fixação\obj\Debug\netcoreapp3.1\Heranca_Fixação.AssemblyInfoInputs.cache
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Heranca_Fixação\Heranca_Fixação\obj\Debug\netcoreapp3.1\Heranca_Fixação.AssemblyInfo.cs
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Heranca_Fixação\Heranca_Fixação\obj\Debug\netcoreapp3.1\Heranca_Fixação.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Heranca_Fixação\Heranca_Fixação\obj\Debug\netcoreapp3.1\Heranca_Fixação.dll
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Heranca_Fixação\Heranca_Fixação\obj\Debug\netcoreapp3.1\Heranca_Fixação.pdb
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Heranca_Fixação\Heranca_Fixação\obj\Debug\netcoreapp3.1\Heranca_Fixação.genruntimeconfig.cache

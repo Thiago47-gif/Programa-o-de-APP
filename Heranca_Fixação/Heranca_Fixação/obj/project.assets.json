@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thiago Ignácio\\Documents\\TDS08-Thiago Ignácio\\Visual Studio\\Linguagem_C#\\Heranca_Fixação\\Heranca_Fixação\\Heranca_Fixação.csproj",
+      "projectUniqueName": "C:\\Users\\Thiago Ignácio\\Documents\\Programa-o-de-APP\\Heranca_Fixação\\Heranca_Fixação\\Heranca_Fixação.csproj",
       "projectName": "Heranca_Fixação",
-      "projectPath": "C:\\Users\\Thiago Ignácio\\Documents\\TDS08-Thiago Ignácio\\Visual Studio\\Linguagem_C#\\Heranca_Fixação\\Heranca_Fixação\\Heranca_Fixação.csproj",
+      "projectPath": "C:\\Users\\Thiago Ignácio\\Documents\\Programa-o-de-APP\\Heranca_Fixação\\Heranca_Fixação\\Heranca_Fixação.csproj",
       "packagesPath": "C:\\Users\\Thiago Ignácio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thiago Ignácio\\Documents\\TDS08-Thiago Ignácio\\Visual Studio\\Linguagem_C#\\Heranca_Fixação\\Heranca_Fixação\\obj\\",
+      "outputPath": "C:\\Users\\Thiago Ignácio\\Documents\\Programa-o-de-APP\\Heranca_Fixação\\Heranca_Fixação\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thiago Ignácio\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -7,7 +7,14 @@ namespace Heranca_Fixação
     {
         static void Main(string[] args)
         {
-            ContaEmpresa conta = new ContaEmpresa(100, "Boruto", 100.0, 300.0);
+            Conta conta = new Conta(9015, "Naruto", 500.0);
+            ContaEmpresa conta2 = new ContaEmpresa(9016, "Hinata", 500.0, 300.0);
+
+            conta.Saque(10.0);
+            conta2.Saque(10.0);
+            Console.WriteLine(conta.Saldo);
+            Console.WriteLine(conta2.Saldo);
+
         }
     }
 }

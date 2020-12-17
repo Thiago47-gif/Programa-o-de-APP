@@ -22,9 +22,9 @@ namespace Heranca_Fixação.Entities
             Saldo = saldo;
         }
 
-        public void Saque(double valor)
+        public virtual void Saque(double valor)
         {
-            Saldo = Saldo - valor; //Ou Saldo -= valor;
+            Saldo = Saldo - valor - 5.0; //Ou Saldo -= valor;
         }
 
         public void Deposito(double valor)
