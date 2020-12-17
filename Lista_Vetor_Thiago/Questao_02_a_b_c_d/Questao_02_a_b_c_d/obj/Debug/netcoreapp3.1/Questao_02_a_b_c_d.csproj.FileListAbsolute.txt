@@ -1,0 +1,12 @@
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_02_a_b_c_d\Questao_02_a_b_c_d\bin\Debug\netcoreapp3.1\Questao_02_a_b_c_d.exe
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_02_a_b_c_d\Questao_02_a_b_c_d\bin\Debug\netcoreapp3.1\Questao_02_a_b_c_d.deps.json
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_02_a_b_c_d\Questao_02_a_b_c_d\bin\Debug\netcoreapp3.1\Questao_02_a_b_c_d.runtimeconfig.json
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_02_a_b_c_d\Questao_02_a_b_c_d\bin\Debug\netcoreapp3.1\Questao_02_a_b_c_d.runtimeconfig.dev.json
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_02_a_b_c_d\Questao_02_a_b_c_d\bin\Debug\netcoreapp3.1\Questao_02_a_b_c_d.dll
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_02_a_b_c_d\Questao_02_a_b_c_d\bin\Debug\netcoreapp3.1\Questao_02_a_b_c_d.pdb
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_02_a_b_c_d\Questao_02_a_b_c_d\obj\Debug\netcoreapp3.1\Questao_02_a_b_c_d.AssemblyInfoInputs.cache
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_02_a_b_c_d\Questao_02_a_b_c_d\obj\Debug\netcoreapp3.1\Questao_02_a_b_c_d.AssemblyInfo.cs
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_02_a_b_c_d\Questao_02_a_b_c_d\obj\Debug\netcoreapp3.1\Questao_02_a_b_c_d.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_02_a_b_c_d\Questao_02_a_b_c_d\obj\Debug\netcoreapp3.1\Questao_02_a_b_c_d.dll
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_02_a_b_c_d\Questao_02_a_b_c_d\obj\Debug\netcoreapp3.1\Questao_02_a_b_c_d.pdb
+C:\Users\Thiago Ignácio\Documents\Programa-o-de-APP\Lista_Vetor_Thiago\Questao_02_a_b_c_d\Questao_02_a_b_c_d\obj\Debug\netcoreapp3.1\Questao_02_a_b_c_d.genruntimeconfig.cache
